@@ -29,7 +29,7 @@ generate: $(VMLINUX_H)
 	go generate ./...
 
 build: generate
-	go build -o tracer .
+	go build -o hello .
 
 clean:
 	rm -f $(VMLINUX_H)

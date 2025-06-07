@@ -26,3 +26,6 @@ root@ubuntu24-1 ~/w/s/e/tracers (laboratory)# ./tracer
 
 - ipv6 输出错误
 - 无法区分数据包的方向(income/outging)
+
+# reference
+- https://github.com/iovisor/bcc/blob/master/libbpf-tools/tcptracer.bpf.c

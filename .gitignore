@@ -3,4 +3,5 @@
 *_bpfeb.go
 *_bpfel.go
 vmlinux.h
-tracer
+go-hello/hello
+tracers/tracer
